@@ -1,0 +1,17 @@
+{
+    "name": "sample",
+    "operations": [
+        {
+            "type": "wait",
+            "wait_time_sec": 3,
+            "comment": "3秒後に実行。キャンセルはここで行う"
+        },
+        {
+            "type": "click",
+            "x": 0,
+            "y": 1079,
+            "wait_time_sec": 1,
+            "comment": "スタートボタンを押す"
+        }
+    ]
+}
